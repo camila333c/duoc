@@ -1,0 +1,12 @@
+nombre= input ("ingrese su nombre: ")
+apellido= input ("ingrese su apellido: ")
+rut= input ("ingrese su rut: ")
+Duoc_mail= input ("ingrese su correo electronico institucional: ")
+Duoc_sede= input ("en que sede estudia: ")
+
+print("datos ingresados: ")
+print("nombre:",nombre)
+print("apellido",apellido)
+print("rut",rut)
+print("correo institucional", Duoc_mail)
+print("sede",Duoc_sede)
